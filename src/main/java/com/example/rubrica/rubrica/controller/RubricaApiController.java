@@ -35,6 +35,7 @@ public class RubricaApiController {
         contatto.setId(id);
         return contattiService.editContatto(contatto);
     }
-
+        //Ciao io sono Umberto e sono un coglione
+    
 
 }
